@@ -16,3 +16,5 @@ A storyboard is basically exactly what it sounds like, its a graphical represent
   + When you select to draw with Gliffy, students should select a “Flowchart”
   + Each group needs to first come up with their opening sentence. It’s the single most important sentence of the story.
   + The text for the two different paths needs to be short. You want to intrigue your reader with a glimpse of where the paths will lead them, without giving it all away until they click and choose.
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-storyboard-mini-lesson' data-visibility='hidden'>View this lesson on Learn.co</a>
